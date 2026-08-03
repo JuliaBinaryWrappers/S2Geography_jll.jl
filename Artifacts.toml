@@ -1,65 +1,65 @@
 [[S2Geography]]
 arch = "aarch64"
-git-tree-sha1 = "b720c556fb8532a2c8ad971a226606e42a787086"
+git-tree-sha1 = "42f0622c49b30cbd36b6f74458af5471425d6f29"
 os = "macos"
 
     [[S2Geography.download]]
-    sha256 = "34d81a9b3f62c28377645229e0cb2e457d4b6376dd147561bb0d3c5914be60f4"
-    url = "https://github.com/JuliaBinaryWrappers/S2Geography_jll.jl/releases/download/S2Geography-v0.3.0+0/S2Geography.v0.3.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "830aeef19ba5c7097913b168caecd04e3257150269240bc20e2d4d8a25b17edc"
+    url = "https://github.com/JuliaBinaryWrappers/S2Geography_jll.jl/releases/download/S2Geography-v0.4.0+0/S2Geography.v0.4.0.aarch64-apple-darwin.tar.gz"
 [[S2Geography]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a3c8785f594d52ab5830c1820660a089ea78892a"
+git-tree-sha1 = "a1dff9cd28cf17807a056c271584796051765eca"
 libc = "glibc"
 os = "linux"
 
     [[S2Geography.download]]
-    sha256 = "4046f54bf30b158102bcfb551b57fafeae033ac2529db664db4a036cc3f46503"
-    url = "https://github.com/JuliaBinaryWrappers/S2Geography_jll.jl/releases/download/S2Geography-v0.3.0+0/S2Geography.v0.3.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "b78c90fc0ba854147e7afb6347ba360a45aae63550bdbfdbff2849e8520a0e52"
+    url = "https://github.com/JuliaBinaryWrappers/S2Geography_jll.jl/releases/download/S2Geography-v0.4.0+0/S2Geography.v0.4.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[S2Geography]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a342c7d48f81513b752454a17f97b9112f5283a8"
+git-tree-sha1 = "3d1c758b729487f49e532a3da93bcf871348518f"
 libc = "musl"
 os = "linux"
 
     [[S2Geography.download]]
-    sha256 = "02312c6af7a30ec2f37ee8dbdf770875c63a76d60505141d5150f3ea8bf5ea5a"
-    url = "https://github.com/JuliaBinaryWrappers/S2Geography_jll.jl/releases/download/S2Geography-v0.3.0+0/S2Geography.v0.3.0.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "ae782e4bde93138f4389ed6c1f76fc7a31b4f9db12b60b3995fb53c2debde25c"
+    url = "https://github.com/JuliaBinaryWrappers/S2Geography_jll.jl/releases/download/S2Geography-v0.4.0+0/S2Geography.v0.4.0.aarch64-linux-musl-cxx11.tar.gz"
 [[S2Geography]]
 arch = "x86_64"
-git-tree-sha1 = "90845d6ada60083bfd60a55f08531b069525b783"
+git-tree-sha1 = "347520af1048a11fffebb49633999b7aded4f2a2"
 os = "macos"
 
     [[S2Geography.download]]
-    sha256 = "b166ac3d57afd6ed195f4392d45002c7457e76f49039cdcdc0e98665bbbd3378"
-    url = "https://github.com/JuliaBinaryWrappers/S2Geography_jll.jl/releases/download/S2Geography-v0.3.0+0/S2Geography.v0.3.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "fdf32693a18179f3bd225b84afc7eb1403648cbf67fb2cc3ff410bb1d6e8862c"
+    url = "https://github.com/JuliaBinaryWrappers/S2Geography_jll.jl/releases/download/S2Geography-v0.4.0+0/S2Geography.v0.4.0.x86_64-apple-darwin.tar.gz"
 [[S2Geography]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "97dacc7593e13c057b67a3b139833d29f7f3edfc"
+git-tree-sha1 = "18ff532df36f9517d04ea1da9f86929a3273d8dc"
 libc = "glibc"
 os = "linux"
 
     [[S2Geography.download]]
-    sha256 = "f4c09fa7f3273392b782d8b6443986a14f05947947ff366bec3d9ed13ca0a72c"
-    url = "https://github.com/JuliaBinaryWrappers/S2Geography_jll.jl/releases/download/S2Geography-v0.3.0+0/S2Geography.v0.3.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "5b883f5c4fd10d7f807410d7e1cfafe77ce1c751da23b689ee3410fe12829403"
+    url = "https://github.com/JuliaBinaryWrappers/S2Geography_jll.jl/releases/download/S2Geography-v0.4.0+0/S2Geography.v0.4.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[S2Geography]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f0aeb040f854095b78f3da9bf7e6ccf3fd30e637"
+git-tree-sha1 = "f357b6bbc416039de91e95ae473ab4cc788973e8"
 libc = "musl"
 os = "linux"
 
     [[S2Geography.download]]
-    sha256 = "0fed7de9563416c7b57c2ec6bf4c5f3e3f999cef083f88ea5ded686e307019fc"
-    url = "https://github.com/JuliaBinaryWrappers/S2Geography_jll.jl/releases/download/S2Geography-v0.3.0+0/S2Geography.v0.3.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "c3f74fb7a820da4cf1e18bd8d82689b47df8be04ccd39751cfeb00424e5915a1"
+    url = "https://github.com/JuliaBinaryWrappers/S2Geography_jll.jl/releases/download/S2Geography-v0.4.0+0/S2Geography.v0.4.0.x86_64-linux-musl-cxx11.tar.gz"
 [[S2Geography]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4534d2749c05b7a191bc0e6a57fbd71d0fc1c864"
+git-tree-sha1 = "58e38df885bbf94f65a7cddfe49e33a6f7c4cf87"
 os = "windows"
 
     [[S2Geography.download]]
-    sha256 = "323317fd03b8a9568ec0bb994e9f53efe4caf46ea6c9e37d2c92a19174387c37"
-    url = "https://github.com/JuliaBinaryWrappers/S2Geography_jll.jl/releases/download/S2Geography-v0.3.0+0/S2Geography.v0.3.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "4f67fdc93529b05b542aa6b474a43dd40c6011e0474c19c92ae53b9627e7b965"
+    url = "https://github.com/JuliaBinaryWrappers/S2Geography_jll.jl/releases/download/S2Geography-v0.4.0+0/S2Geography.v0.4.0.x86_64-w64-mingw32-cxx11.tar.gz"
